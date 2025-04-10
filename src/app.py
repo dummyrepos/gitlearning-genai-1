@@ -1,5 +1,5 @@
 def is_prime():
-    pass
+    return False
 
 def is_even():
     pass
